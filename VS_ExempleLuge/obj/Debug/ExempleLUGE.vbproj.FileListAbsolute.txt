@@ -1,0 +1,11 @@
+C:\Users\Phalanx\Desktop\LUGE\VS_ExempleLuge\bin\Debug\ExempleLUGE.dll
+C:\Users\Phalanx\Desktop\LUGE\VS_ExempleLuge\bin\Debug\ExempleLUGE.pdb
+C:\Users\Phalanx\Desktop\LUGE\VS_ExempleLuge\bin\Debug\ExempleLUGE.xml
+C:\Users\Phalanx\Desktop\LUGE\VS_ExempleLuge\obj\Debug\ExempleLUGE.vbproj.AssemblyReference.cache
+C:\Users\Phalanx\Desktop\LUGE\VS_ExempleLuge\obj\Debug\ExempleLUGE.Resources.resources
+C:\Users\Phalanx\Desktop\LUGE\VS_ExempleLuge\obj\Debug\ExempleLUGE.ProgressBarWithLabel.resources
+C:\Users\Phalanx\Desktop\LUGE\VS_ExempleLuge\obj\Debug\ExempleLUGE.vbproj.GenerateResource.cache
+C:\Users\Phalanx\Desktop\LUGE\VS_ExempleLuge\obj\Debug\ExempleLUGE.vbproj.CoreCompileInputs.cache
+C:\Users\Phalanx\Desktop\LUGE\VS_ExempleLuge\obj\Debug\ExempleLUGE.dll
+C:\Users\Phalanx\Desktop\LUGE\VS_ExempleLuge\obj\Debug\ExempleLUGE.xml
+C:\Users\Phalanx\Desktop\LUGE\VS_ExempleLuge\obj\Debug\ExempleLUGE.pdb
